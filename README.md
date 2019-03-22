@@ -1,29 +1,28 @@
-# vue-exam
+# Goko Exam App
 
-## Project setup
-```
-npm install
-```
+Simple Exam application created with VueJs. <br/>
+Using Bootstrap-vue.<br/>
+Using Open Trivia Database API
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### What have i learned so far ?
 
-### Compiles and minifies for production
-```
-npm run build
-```
+VueJS component structure.<br/>
+Passing data from root/parent component to child components.<br/>
+How to connect api and fetch data to my app.<br/>
+What is the difference between computed and methods.<br/>
+What does the watch property do?<br/>
 
-### Run your tests
-```
-npm run test
-```
+### Thanks to
 
-### Lints and fixes files
-```
-npm run lint
-```
+freeCodeCamp and Gwen for instance project.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Dev Platform
+
+OS : Linux <br/>
+IDE : VS Code
+
+### What is next?
+
+I'm going to implement different categories of questions.<br/>
+Fix some bugs.<br/>
+Change design.<br/>
